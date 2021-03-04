@@ -1,3 +1,15 @@
+## TEAM MEMBERS
+
+1. elias dadoush
+
+2. alaa dib
+
+3. mohammed alkhateeb
+
+4. motasem meqbel
+
+5. ahmed alfrijat
+
 # syntax terminators team agreement
 
 ## Conflict Plan
@@ -74,14 +86,4 @@ for each feature task , the team member that he assigned to that tasks will crea
     using slack
 
 
-## TEAM MEMBERS
 
-1. elias dadoush
-
-2. alaa dib
-
-3. mohammed alkhateeb
-
-4. motasem meqbel
-
-5. ahmed alfrijat
